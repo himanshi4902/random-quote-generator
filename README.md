@@ -1,6 +1,6 @@
 ## Description:
 
-The ### `Random Quote Generator with React` is a web application built using the React library to dynamically generate random quotes for users. The project leverages the Advice Slip API to fetch diverse and insightful quotes.
+The `Random Quote Generator with React` is a web application built using the React library to dynamically generate random quotes for users. The project leverages the Advice Slip API to fetch diverse and insightful quotes.
 
 ## Key Features:
 
